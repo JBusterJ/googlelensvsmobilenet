@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+body {
+    background-color: #36455c;
+}
+
+.smaller {
+    font-size: 20px;
+    font-family: arial;
+    font-weight: 200;
+    color: white;
+}
+
+.google {
+	background: linear-gradient(to right, #4285F4 0%, #EA4335 15%, #FBBC05 30%, #4285F4 45%, #34A853 60%, #EA4335 75%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.mnet {
+    color: #b258c4;
+}
+
+div:not(.nostyle){
+    background-color: #5286c7;
+    width: 75%;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+}
+
+.testobj {
+    font-size: 20px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.winner {
+    font-size: 25px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.description {
+    font-size: 15px;
+    font-family: 'Oxygen', sans-serif;
+    background-color: #487ab8;
+    width: 75%;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+img {
+    width: 300px;
+}
